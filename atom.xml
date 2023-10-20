@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>清酒敬年华</title>
+  
+  
+  <link href="https://zhangxinglu.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zhangxinglu.github.io/"/>
+  <updated>2023-10-19T14:38:23.698Z</updated>
+  <id>https://zhangxinglu.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“A320章节号51-75-11”</title>
+    <link href="https://zhangxinglu.github.io/2023/10/19/51-75-11/"/>
+    <id>https://zhangxinglu.github.io/2023/10/19/51-75-11/</id>
+    <published>2023-10-19T11:50:06.000Z</published>
+    <updated>2023-10-19T14:38:23.698Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;51-75-11-Description-STRIPPING-PAINT-REMOVAL&quot;&gt;&lt;a href=&quot;#51-75-11-Description-STRIPPING-PAINT-REMOVAL&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="AIRBUS" scheme="https://zhangxinglu.github.io/tags/AIRBUS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zhangxinglu.github.io/2023/10/17/hello-world/"/>
+    <id>https://zhangxinglu.github.io/2023/10/17/hello-world/</id>
+    <published>2023-10-17T11:03:40.408Z</published>
+    <updated>2023-10-19T14:00:53.134Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
